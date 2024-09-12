@@ -8,6 +8,7 @@
     <title>Document</title>
 </head>
 <body>
+    @include('partial.header')
     @yield('content')
 </body>
 </html>

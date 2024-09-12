@@ -2,7 +2,8 @@
 
 
 @section('content')
-@dump($trains)
+
+<h1>Orari dei treni</h1>
 <table class="table">
     <thead>
       <tr>
@@ -13,6 +14,7 @@
         <th scope="col">Time departure</th>
         <th scope="col">Time arrival</th>
         <th scope="col">Train code</th>
+        <th scope="col">Binary</th>
         <th scope="col">Number carriages</th>
         <th scope="col">on time</th>
         <th scope="col">cancelled</th>
@@ -29,9 +31,10 @@
                 <td scope="row">{{$train->departure_time}}</td>
                 <td scope="row">{{$train->arrival_time}}</td>
                 <td scope="row">{{$train->train_code}}</td>
+                <td scope="row">{{$train->binary}}</td>
                 <td scope="row">{{$train->number_carriages}}</td>
-                <td scope="row">{{$train->on_time}}</td>
-                <td scope="row">{{$train->cancelled}}</td>
+                <td scope="row">{{$train->on_time ? 'On time' : ($train->cancelled ? '' : 'Delay')}}</td>
+                <td scope="row">{{$train->cancelled ? 'Cancelled' : ''}}</td>
 
             </tr>
         @endforeach
