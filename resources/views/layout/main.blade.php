@@ -8,6 +8,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>home</h1>
+    @yield('content')
 </body>
 </html>
