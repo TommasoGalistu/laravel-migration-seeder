@@ -11,8 +11,14 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::table('trains', function (Blueprint $table) {
-            $table->tinyInteger('binary')->after('train_code');
+        Schema::create('travels', function (Blueprint $table) {
+            $table->id();
+
+            $table->string('place', 50);
+            $table->string('description', 250);
+            $table->tinyInteger('weather');
+
+            $table->timestamps();
         });
     }
 
@@ -21,8 +27,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::table('trains', function (Blueprint $table) {
-            $table->dropColumn('binary');
-        });
+        Schema::dropIfExists('travels');
     }
 };
