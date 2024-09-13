@@ -7,7 +7,7 @@
       <tr>
         <th scope="col">Luogo</th>
         <th scope="col">Compagnia</th>
-        <th scope="col">Partenza</th>
+        <th scope="col">Tempo</th>
 
       </tr>
     </thead>
@@ -17,7 +17,7 @@
 
                 <td scope="row">{{$travel->place}}</td>
                 <td scope="row">{{$travel->description}}</td>
-                <td scope="row">{{$travel->weather}}</td>
+                <td scope="row">{{$travel->weather ? 'Sereno' : 'Incerto'}}</td>
 
 
             </tr>
