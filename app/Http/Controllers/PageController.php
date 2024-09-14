@@ -20,11 +20,12 @@ class PageController extends Controller
         return view('treno', compact('travels'));
     }
     public function fanta($player){
-        $player_search = $player_url = str_replace('-', ' ', $player);
-        $team = Fanta::pluck('team');
-        $firstTeam = Fanta::select('player', 'player_team', 'position', 'price')->where('team', '=' ,$player_search)->get();
+        $player_search = str_replace('-', ' ', $player);
 
-        return view('fanta', compact('team', 'firstTeam'));
+        $team = Fanta::pluck('team');
+        $firstTeam = Fanta::select('player', 'player_team', 'position', 'price')->where('team', '=' ,$player_search )->get();
+
+        return view('fanta', compact('team', 'firstTeam','player_search'));
     }
 
 

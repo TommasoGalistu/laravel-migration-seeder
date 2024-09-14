@@ -13,7 +13,7 @@
 @endphp
 @section('content')
 <h1>Fantacalcio</h1>
-<h2>Quale squadra vuoi vedere?</h2>
+<h5>Clicca sul tuo giocatore</h5>
 
 @foreach ($list as $player)
 @php
@@ -24,7 +24,8 @@
 
 @endforeach
 <table class="table">
-    <h5>Giocatore</h5>
+
+    <h5 class="nome">Allenatore: {{ $player_search  }}</h5>
     <thead>
       <tr>
         <th scope="col">Giocatore</th>
