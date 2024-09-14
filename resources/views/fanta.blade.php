@@ -16,7 +16,11 @@
 <h2>Quale squadra vuoi vedere?</h2>
 
 @foreach ($list as $player)
-<a class="player" href="">{{ $player }}</a>
+@php
+    $player_url = str_replace(' ', '-', $player);
+@endphp
+<a class="player" href="{{route('fanta', ['name' => $player_url ])}}">{{ $player }}</a>
+
 
 @endforeach
 <table class="table">

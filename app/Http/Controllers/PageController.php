@@ -19,11 +19,13 @@ class PageController extends Controller
         $travels = Travel::all();
         return view('treno', compact('travels'));
     }
-    public function fanta(){
+    public function fanta($player){
+        $player_search = $player_url = str_replace('-', ' ', $player);
         $team = Fanta::pluck('team');
-        $firstTeam = Fanta::select('player', 'player_team', 'position', 'price')->where('team', '=' ,'Marco')->get();
+        $firstTeam = Fanta::select('player', 'player_team', 'position', 'price')->where('team', '=' ,$player_search)->get();
 
         return view('fanta', compact('team', 'firstTeam'));
     }
+
 
 }
