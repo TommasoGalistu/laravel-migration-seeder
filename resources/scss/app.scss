@@ -1,1 +1,14 @@
 @import "~bootstrap/scss/bootstrap";
+body {
+    background-color: black;
+    color: white;
+}
+.player {
+    padding: 0.5rem 1rem;
+    margin: 0.5rem;
+    border: 1px solid white;
+}
+
+.table {
+    margin-top: 2rem;
+}

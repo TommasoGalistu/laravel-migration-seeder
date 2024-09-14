@@ -1,0 +1,251 @@
+Squadra,Nome,Squadra_Appartenenza,Ruolo,Ruoli_Mantra,Prezzo,Quotazione,Quotazione_Mantra,Fantacalcio_Id
+"Marco","MERET","NAP","P","Por",44,15,15,572
+"Marco","SCUFFET","CAG","P","Por",2,8,8,574
+"Marco","CAPRILE","NAP","P","Por",1,1,1,4360
+"Marco","MIRANDA J.","BOL","D","Ds,E",13,8,8,4734
+"Marco","BASTONI","INT","D","Dc",33,16,16,2120
+"Marco","LUPERTO","CAG","D","Dc",9,9,9,393
+"Marco","DUMFRIES","INT","D","E",10,16,15,5513
+"Marco","MANCINI","ROM","D","Dc",12,11,11,2296
+"Marco","MARTIN","GEN","D","Ds,E",2,5,5,2593
+"Marco","POSCH","BOL","D","Dc,Dd",2,7,8,6066
+"Marco","HOLM","BOL","D","Dd,E",1,8,8,5678
+"Marco","MARIN","CAG","C","M,C",5,6,6,4965
+"Marco","ILIC","TOR","C","C",15,9,9,5007
+"Marco","ORSOLINI","BOL","C","W",50,21,21,2167
+"Marco","MALINOVSKYI","GEN","C","C,T",11,11,11,4427
+"Marco","PASALIC","ATA","C","C,T",9,14,14,2077
+"Marco","ZIELINSKI","INT","C","C,T",7,10,10,152
+"Marco","HERNANI","PAR","C","C",1,5,4,4423
+"Marco","MIRETTI","GEN","C","C,T",1,3,3,5813
+"Marco","MARTINEZ L.","INT","A","Pc",178,38,39,2764
+"Marco","KEAN","FIO","A","Pc",65,21,21,2097
+"Marco","BELOTTI","COM","A","Pc",18,16,15,441
+"Marco","MOSQUERA","VER","A","Pc",3,10,9,6630
+"Marco","CANCELLIERI","PAR","A","W,A",1,6,6,5500
+"Marco","BENEDYCZAK","PAR","A","A",1,9,9,6667
+"Andrea e Furlan","DI GREGORIO","JUV","P","Por",52,18,18,5876
+"Andrea e Furlan","PERIN","JUV","P","Por",1,1,1,218
+"Andrea e Furlan","PINSOGLIO","JUV","P","Por",1,1,1,1930
+"Andrea e Furlan","BUONGIORNO","NAP","D","Dc",31,16,16,2724
+"Andrea e Furlan","EMERSON ROYAL","MIL","D","B,Ds,Dd",11,11,11,4816
+"Andrea e Furlan","CALABRIA","MIL","D","Dd,E",6,6,6,357
+"Andrea e Furlan","KOSSOUNOU","ATA","D","Dc,Dd",9,10,10,5578
+"Andrea e Furlan","HERMOSO","ROM","D","Dc",9,10,10,4807
+"Andrea e Furlan","PONGRACIC","FIO","D","Dc",2,8,8,5603
+"Andrea e Furlan","MINA","CAG","D","Dc",2,8,8,4210
+"Andrea e Furlan","N'DICKA","ROM","D","Dc",1,9,9,4317
+"Andrea e Furlan","PULISIC","MIL","C","T,A",75,30,29,2423
+"Andrea e Furlan","ZANIOLO","ATA","C","T,A",13,12,11,2766
+"Andrea e Furlan","KONE' M.","ROM","C","M,C",6,8,9,5589
+"Andrea e Furlan","DA CUNHA","COM","C","W,T",1,12,12,5559
+"Andrea e Furlan","LE FEE","ROM","C","C,T",3,10,10,6299
+"Andrea e Furlan","LOVRIC","UDI","C","C",1,10,10,5850
+"Andrea e Furlan","BALDANZI","ROM","C","T,A",1,9,9,5823
+"Andrea e Furlan","TETE MORENTE","LEC","C","W",1,9,8,6634
+"Andrea e Furlan","MORATA","MIL","A","Pc",103,25,25,313
+"Andrea e Furlan","RETEGUI","ATA","A","Pc",114,22,21,6228
+"Andrea e Furlan","SOULE'","ROM","A","W,A",40,19,21,5734
+"Andrea e Furlan","OKAFOR","MIL","A","A",13,12,12,6227
+"Andrea e Furlan","SIMEONE","NAP","A","Pc",2,11,10,2061
+"Andrea e Furlan","ROCHA LIVRAMENTO","VER","A","Pc",2,5,5,6644
+"Luca","MILINKOVIC-SAVIC V.","TOR","P","Por",34,12,12,2170
+"Luca","DONNARUMMA AN.","TOR","P","Por",1,1,1,216
+"Luca","PALEARI","TOR","P","Por",1,1,1,5320
+"Luca","GATTI","JUV","D","Dc",20,8,8,5831
+"Luca","DARMIAN","INT","D","B,Dd,E",18,10,10,2525
+"Luca","ZORTEA","CAG","D","Ds,Dd,E",12,6,7,4433
+"Luca","RUGGERI","ATA","D","E",20,12,11,5354
+"Luca","GILA","LAZ","D","Dc",5,4,4,5833
+"Luca","BIJOL","UDI","D","Dc",8,9,9,5847
+"Luca","GASPAR K.","LEC","D","Dc",1,4,4,6632
+"Luca","VOJVODA","TOR","D","B,Dd,E",1,7,7,4994
+"Luca","DOUGLAS LUIZ","JUV","C","C",27,20,19,4911
+"Luca","FERGUSON","BOL","C","C,T",3,17,17,5858
+"Luca","VLASIC","TOR","C","T",11,14,13,5687
+"Luca","BERNABE'","PAR","C","C,T",19,14,14,6666
+"Luca","MKHITARYAN","INT","C","C",19,15,14,2529
+"Luca","ORISTANIO","VEN","C","W,T,A",7,9,9,6218
+"Luca","LOCATELLI","JUV","C","M,C",7,9,10,827
+"Luca","WEAH","JUV","C","W",1,6,5,4662
+"Luca","LUKAKU","NAP","A","Pc",177,34,34,2531
+"Luca","DJURIC","MON","A","Pc",15,12,12,5471
+"Luca","PINAMONTI","GEN","A","Pc",38,18,17,2038
+"Luca","LUCCA","UDI","A","Pc",32,14,13,6215
+"Luca","DALLINGA","BOL","A","Pc",16,20,20,6643
+"Luca","ISAKSEN","LAZ","A","W,A",2,12,13,6398
+"Dana e Francesco","DE GEA","FIO","P","Por",31,10,10,2521
+"Dana e Francesco","TERRACCIANO","FIO","P","Por",2,11,11,2815
+"Dana e Francesco","SUZUKI","PAR","P","Por",4,7,7,6641
+"Dana e Francesco","DIMARCO","INT","D","E",48,24,23,254
+"Dana e Francesco","CARLOS AUGUSTO","INT","D","E",12,9,8,5877
+"Dana e Francesco","CABAL","JUV","D","B,Ds,E",7,7,8,6039
+"Dana e Francesco","GOSENS","FIO","D","E",19,14,13,2160
+"Dana e Francesco","BALOGH","PAR","D","Dc",1,3,3,5353
+"Dana e Francesco","GUILBERT","LEC","D","B,Ds,Dd",1,6,7,5626
+"Dana e Francesco","GIGOT","LAZ","D","Dc",1,8,8,5899
+"Dana e Francesco","ZAPPA","CAG","D","B,Dd,E",1,6,7,4461
+"Dana e Francesco","CALHANOGLU","INT","C","M,C",70,28,30,2194
+"Dana e Francesco","DUNCAN","VEN","C","C",1,8,8,526
+"Dana e Francesco","THURAM K.","JUV","C","M,C",11,10,12,5562
+"Dana e Francesco","MANDRAGORA","FIO","C","M,C",1,7,8,1933
+"Dana e Francesco","REIJNDERS","MIL","C","C",15,12,11,6224
+"Dana e Francesco","NDOYE","BOL","C","W",10,10,9,5564
+"Dana e Francesco","SOTTIL","FIO","C","W",1,8,8,2839
+"Dana e Francesco","CRISTANTE","ROM","C","M,C",1,10,11,779
+"Dana e Francesco","ZAPATA D.","TOR","A","Pc",108,25,25,608
+"Dana e Francesco","GUDMUNDSSON A.","FIO","A","A",47,25,26,5800
+"Dana e Francesco","DE KETELAERE","ATA","A","A",101,20,20,5995
+"Dana e Francesco","BRENNER","UDI","A","A",5,9,9,6213
+"Dana e Francesco","SCAMACCA","ATA","A","Pc",1,26,25,2137
+"Dana e Francesco","BANDA","LEC","A","W,A",1,9,10,6001
+"Tommy","SOMMER","INT","P","Por",48,19,19,2428
+"Tommy","MARTINEZ JO.","INT","P","Por",1,1,1,5116
+"Tommy","REINA","COM","P","Por",1,3,3,387
+"Tommy","TOMORI","MIL","D","Dc",18,13,13,4751
+"Tommy","MARTINEZ QUARTA","FIO","D","Dc",21,10,10,5323
+"Tommy","ACERBI","INT","D","Dc",17,10,10,513
+"Tommy","HERNANDEZ T.","MIL","D","Ds,E",42,20,20,4292
+"Tommy","CAMBIASO","JUV","D","Ds,Dd,E",32,11,12,5520
+"Tommy","ZAPPACOSTA","ATA","D","E",5,10,9,554
+"Tommy","SERGI ROBERTO","COM","D","E,M",6,9,9,4284
+"Tommy","IDZES","VEN","D","Dc",1,5,5,6672
+"Tommy","MCTOMINAY","NAP","C","M,C",31,16,19,4777
+"Tommy","COLPANI","FIO","C","T",35,22,20,5878
+"Tommy","BARELLA","INT","C","C",44,22,21,1870
+"Tommy","FREULER","BOL","C","M,C",2,10,11,788
+"Tommy","LAZOVIC","VER","C","W",6,11,10,236
+"Tommy","STREFEZZA","COM","C","W",7,12,12,4486
+"Tommy","PAYERO","UDI","C","C",1,7,7,6481
+"Tommy","RICHARDSON","FIO","C","M,C",1,8,8,6804
+"Tommy","DOVBYK","ROM","A","Pc",108,30,29,6675
+"Tommy","KRSTOVIC","LEC","A","Pc",28,17,16,6435
+"Tommy","POHJANPALO","VEN","A","Pc",28,15,14,5079
+"Tommy","CAPRARI","MON","A","A",8,9,9,1958
+"Tommy","SANCHEZ","UDI","A","A",1,15,15,2475
+"Tommy","PETAGNA","MON","A","Pc",1,4,3,383
+"Nicola","FALCONE","LEC","P","Por",9,9,9,2134
+"Nicola","OKOYE","UDI","P","Por",11,8,8,6462
+"Nicola","TURATI","MON","P","Por",2,8,8,4867
+"Nicola","TCHATCHOUA","VER","D","Dd,E",14,8,8,6480
+"Nicola","TAVARES N.","LAZ","D","Ds,E",26,7,7,5620
+"Nicola","DORGU","LEC","D","Ds,E",18,7,7,6257
+"Nicola","BELLANOVA","ATA","D","E",28,13,12,4887
+"Nicola","DOSSENA","COM","D","Dc",1,8,8,6230
+"Nicola","ZANOLI","GEN","D","Dd,E",1,6,6,5527
+"Nicola","LAZARO","TOR","D","E",1,5,5,4385
+"Nicola","AUGELLO","CAG","D","Ds,E",1,5,5,4421
+"Nicola","GYASI","EMP","C","W",2,9,9,4992
+"Nicola","SUSLOV","VER","C","W,T",16,13,13,6486
+"Nicola","MALDINI","MON","C","T,A",21,10,9,4896
+"Nicola","FAZZINI","EMP","C","C,T",11,6,6,6010
+"Nicola","PESSINA","MON","C","M,C",18,11,12,2741
+"Nicola","CONCEICAO","JUV","C","W,A",13,11,10,6884
+"Nicola","SOHM","PAR","C","C",5,7,6,5319
+"Nicola","MESSIAS","GEN","C","C,W",5,10,10,4970
+"Nicola","LEAO","MIL","A","A",88,25,26,4510
+"Nicola","DYBALA","ROM","A","A",93,32,33,309
+"Nicola","GONZALEZ N.","JUV","A","A",40,23,24,4179
+"Nicola","THAUVIN","UDI","A","A",34,11,11,2369
+"Nicola","ADAMS C.","TOR","A","A",28,15,16,6646
+"Nicola","SANABRIA","TOR","A","Pc",8,10,9,479
+"Francy","PROVEDEL","LAZ","P","Por",25,11,11,2814
+"Francy","MANDAS","LAZ","P","Por",1,1,1,6482
+"Francy","MONTIPO'","VER","P","Por",6,8,8,4957
+"Francy","VALERI","PAR","D","Ds,E",7,7,7,5862
+"Francy","DI LORENZO","NAP","D","B,Dd,E",30,18,20,2816
+"Francy","MASINA","TOR","D","B,Ds,E",10,7,8,49
+"Francy","BEUKEMA","BOL","D","Dc",4,8,8,6202
+"Francy","GIANNETTI L.","UDI","D","Dc",2,6,6,6533
+"Francy","EHIZIBUE","UDI","D","Dd,E",3,7,7,6047
+"Francy","VASQUEZ","GEN","D","Dc,Ds",8,9,10,5514
+"Francy","GALLO","LEC","D","Ds,E",3,5,5,4502
+"Francy","NERES","NAP","C","W,A",44,21,20,6831
+"Francy","BRESCIANINI","ATA","C","M,C",15,7,7,4947
+"Francy","FABBIAN","BOL","C","C,T",17,14,14,6206
+"Francy","ELLERTSSON","VEN","C","C,W",1,4,4,6020
+"Francy","PAZ N.","COM","C","T,A",7,7,6,6875
+"Francy","POBEGA","BOL","C","M,C",1,1,2,5298
+"Francy","FRENDRUP","GEN","C","E,M",8,11,13,5791
+"Francy","LOBOTKA","NAP","C","M,C",3,9,10,4287
+"Francy","THURAM","INT","A","Pc",201,34,33,4871
+"Francy","DIA","LAZ","A","Pc",30,16,15,5672
+"Francy","PICCOLI","CAG","A","Pc",10,14,13,4359
+"Francy","BONNY","PAR","A","Pc",44,10,10,6669
+"Francy","TAREMI","INT","A","Pc",17,15,14,6628
+"Francy","MOTA","MON","A","A",1,9,9,5882
+"Fabio M.","SVILAR","ROM","P","Por",35,14,14,5841
+"Fabio M.","RYAN","ROM","P","Por",1,1,1,5384
+"Fabio M.","VASQUEZ D.","EMP","P","Por",1,7,7,6125
+"Fabio M.","PAVLOVIC","MIL","D","Dc",23,11,11,5022
+"Fabio M.","COCO","TOR","D","Dc",17,10,10,6642
+"Fabio M.","DE WINTER","GEN","D","Dc,Dd",7,5,5,5739
+"Fabio M.","RRAHMANI","NAP","D","Dc",13,11,11,4409
+"Fabio M.","BASCHIROTTO","LEC","D","Dc,Dd",3,9,10,5835
+"Fabio M.","CELIK","ROM","D","Dd,E",4,4,4,4657
+"Fabio M.","KYRIAKOPOULOS","MON","D","Ds,E",4,7,7,4530
+"Fabio M.","COULIBALY W.","PAR","D","Ds,Dd,E",3,4,4,6665
+"Fabio M.","KOOPMEINERS","JUV","C","T",74,27,26,5685
+"Fabio M.","ADLI","FIO","C","M,C",11,6,6,5875
+"Fabio M.","HARROUI","VER","C","W,T",15,13,13,5688
+"Fabio M.","LOFTUS-CHEEK","MIL","C","C,T",25,18,18,4199
+"Fabio M.","MAN","PAR","C","W,A",32,21,20,5393
+"Fabio M.","FAGIOLI","JUV","C","C,T",3,10,9,4465
+"Fabio M.","MAZZITELLI","COM","C","M,C",3,7,8,1976
+"Fabio M.","VIOLA","CAG","C","C,T",1,5,5,440
+"Fabio M.","VLAHOVIC","JUV","A","Pc",202,37,38,2841
+"Fabio M.","CUTRONE","COM","A","Pc",3,9,8,2155
+"Fabio M.","MIHAILA","PAR","A","W,A",2,8,9,5322
+"Fabio M.","RASPADORI","NAP","A","A",6,10,11,4371
+"Fabio M.","LUVUMBO","CAG","A","A",2,12,12,5297
+"Fabio M.","CASTRO S.","BOL","A","Pc",10,8,7,6572
+"Fabio e Benci","CARNESECCHI","ATA","P","Por",37,12,12,4431
+"Fabio e Benci","RUI PATRICIO","ATA","P","Por",1,1,1,4270
+"Fabio e Benci","SKORUPSKI","BOL","P","Por",11,12,12,133
+"Fabio e Benci","ANGELINO","ROM","D","Ds,E",17,10,10,4772
+"Fabio e Benci","PAVARD","INT","D","Dc,Dd",26,14,15,4177
+"Fabio e Benci","BREMER","JUV","D","Dc",31,16,16,2788
+"Fabio e Benci","KOLASINAC","ATA","D","B,Ds,E",8,8,9,2640
+"Fabio e Benci","LAZZARI","LAZ","D","Dd,E",6,6,6,2263
+"Fabio e Benci","ROMAGNOLI","LAZ","D","Dc",5,9,9,460
+"Fabio e Benci","DE VRIJ","INT","D","Dc",6,7,7,322
+"Fabio e Benci","MAZZOCCHI","NAP","D","E",4,4,4,5481
+"Fabio e Benci","GAETANO","CAG","C","T",10,8,7,4364
+"Fabio e Benci","RICCI S.","TOR","C","M,C",16,9,10,5453
+"Fabio e Benci","PAREDES","ROM","C","M,C",3,6,7,468
+"Fabio e Benci","FRATTESI","INT","C","C,T",18,18,17,2848
+"Fabio e Benci","EDERSON D.S.","ATA","C","M,C",19,15,17,5792
+"Fabio e Benci","FOFANA Y.","MIL","C","M,C",7,7,8,4686
+"Fabio e Benci","TCHAOUNA","LAZ","C","W",9,8,8,5919
+"Fabio e Benci","ZAMBO ANGUISSA","NAP","C","M,C",3,11,12,4220
+"Fabio e Benci","KVARATSKHELIA","NAP","A","A",100,29,30,5839
+"Fabio e Benci","LOOKMAN","ATA","A","A",102,26,27,4730
+"Fabio e Benci","ABRAHAM","MIL","A","Pc",16,13,13,2544
+"Fabio e Benci","NOSLIN","LAZ","A","A",9,15,15,6556
+"Fabio e Benci","VITINHA O.","GEN","A","Pc",28,12,11,6164
+"Fabio e Benci","EKUBAN","GEN","A","A",7,9,9,5506
+"Manuel","MAIGNAN","MIL","P","Por",41,14,14,4312
+"Manuel","SPORTIELLO","MIL","P","Por",1,1,1,4
+"Manuel","GOLLINI","GEN","P","Por",9,10,10,610
+"Manuel","BIRAGHI","FIO","D","B,Ds,E",16,8,9,252
+"Manuel","SOSA B.","TOR","D","E",9,7,6,6820
+"Manuel","DANILO","JUV","D","B,Ds,Dd",7,13,15,4237
+"Manuel","SPINAZZOLA","NAP","D","E",15,13,12,1852
+"Manuel","HUMMELS","ROM","D","Dc",9,8,8,2406
+"Manuel","DODO'","FIO","D","Dd,E",10,9,9,5885
+"Manuel","HIEN","ATA","D","Dc",8,8,8,6046
+"Manuel","BISSECK","INT","D","Dc",5,4,4,6217
+"Manuel","PELLEGRINI LO.","ROM","C","C,T",31,21,21,530
+"Manuel","ZACCAGNI","LAZ","C","W,A",71,26,26,632
+"Manuel","SAMARDZIC","ATA","C","T",33,16,15,5119
+"Manuel","POLITANO","NAP","C","W",27,22,22,536
+"Manuel","SAELEMAEKERS","ROM","C","W",6,4,4,4892
+"Manuel","CHUKWUEZE","MIL","C","W,A",5,10,9,4856
+"Manuel","MARCHWINSKI","LEC","C","T",2,7,6,6645
+"Manuel","GUENDOUZI","LAZ","C","C",1,9,9,4186
+"Manuel","CASTELLANOS","LAZ","A","Pc",100,23,23,6226
+"Manuel","YILDIZ","JUV","A","A",46,16,17,6434
+"Manuel","COLOMBO","EMP","A","Pc",19,13,12,4923
+"Manuel","TENGSTEDT","VER","A","Pc",13,13,12,6801
+"Manuel","BELTRAN L.","FIO","A","A",10,10,10,6409
+"Manuel","REBIC","LEC","A","A",1,4,4,186
